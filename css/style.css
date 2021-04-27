@@ -315,6 +315,8 @@ a:hover {
 }
 .single-more-item img {
 	margin-bottom: 15px;
+	height: 150px;
+	width: auto;
 }
 .single-more-item h4 {
 	margin-bottom: 10px;
